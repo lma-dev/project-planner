@@ -1,24 +1,16 @@
 {
-  "projects":[
-      {
-          "id":1,
-          "title":"project title1",
-          "detail":"project detail1"
-      },
-      {
-          "id":2,
-          "title":"project title2",
-          "detail":"project detail2"
-      },
-      {
-          "id":3,
-          "title":"project title3",
-          "detail":"project detail3"
-      },
-      {
-          "id":4,
-          "title":"project title4",
-          "detail":"project detail4"
-      }
+  "projects": [
+    {
+      "id": 3,
+      "title": "project title3",
+      "detail": "project detail3",
+      "complete": false
+    },
+    {
+      "id": 4,
+      "title": "project title4",
+      "detail": "project detail4",
+      "complete": false
+    }
   ]
 }
