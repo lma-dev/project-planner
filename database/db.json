@@ -3,7 +3,7 @@
     {
       "title": "Web Application Pj",
       "detail": "Web application",
-      "complete": false,
+      "complete": true,
       "id": 1
     },
     {
@@ -11,6 +11,12 @@
       "detail": "System Application first",
       "complete": false,
       "id": 2
+    },
+    {
+      "title": "AI",
+      "detail": "Artilli fdgkdjfgkdfj;jdfgjejgkdnvbf",
+      "complete": false,
+      "id": 3
     }
   ]
 }
