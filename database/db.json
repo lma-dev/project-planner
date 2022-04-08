@@ -1,10 +1,34 @@
 {
   "projects": [
     {
-      "title": "System Application",
-      "detail": "System Application first",
+      "title": "Cyber Project",
+      "detail": "Web application",
+      "complete": true,
+      "id": 1
+    },
+    {
+      "title": "Employee Project",
+      "detail": "System Application",
       "complete": false,
       "id": 2
+    },
+    {
+      "title": "AI Project",
+      "detail": "Machine Application",
+      "complete": false,
+      "id": 3
+    },
+     {
+      "title": "Factory Project",
+      "detail": "Web application",
+      "complete": true,
+      "id": 4
+    },
+    {
+      "title": "Guide Application",
+      "detail": "System Application",
+      "complete": false,
+      "id": 5
     }
   ]
 }
