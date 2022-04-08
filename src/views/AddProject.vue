@@ -5,7 +5,10 @@
     <input type="text" v-model="title" />
     <label>Project Detail</label>
     <input type="text" v-model="detail" />
-    <button>Add Project</button>
+    <div class="flex">
+      <button>Add Project</button>
+      <router-link :to="{ name: 'home' }">Back</router-link>
+    </div>
   </form>
 </template>
 
@@ -71,5 +74,11 @@ form button {
   border: 0;
   border-radius: 6px;
   font-size: 16px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 </style>

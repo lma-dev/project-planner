@@ -73,6 +73,18 @@ h3 {
   justify-content: space-between;
   align-items: center;
 }
+
+.flex a {
+  display: inline-block;
+  margin: 30px auto 0;
+  background: black;
+  color: white;
+  padding: 10px;
+  border: 0;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 16px;
+}
 span {
   margin-left: 10px;
 }
